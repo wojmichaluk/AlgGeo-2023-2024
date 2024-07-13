@@ -10,6 +10,6 @@ Rozwiązania laboratoriów oraz sprawozdania *powinny być* z grubsza poprawne, 
 - lab3: ```16/20``` punktów
 - lab4: ```19/20``` punktów
 
-Projekt, który realizowałem w parze z kolegą [Michałem](https://github.com/michal1mroz) jest umieszczony pod adresem [Projekt](https://github.com/michal1mroz/GEOMETRIC_ALG_PROJECT). Został on oceniony na ```38/40``` punktów.
+Projekt, który realizowałem w parze z kolegą [Michałem](https://github.com/michal1mroz) jest umieszczony pod adresem [Projekt](https://github.com/michal1mroz/GEOMETRIC_ALG_PROJECT) (oraz sforkowany przeze mnie). Został on oceniony na ```38/40``` punktów.
 
 Przede wszystkim mam nadzieję, że zamieszczone tu materiały są przydatne. Korzystajcie rozważnie!
