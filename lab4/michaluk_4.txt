@@ -1,1 +1,0 @@
-Ten program korzysta z zewnętrznej biblioteki sortedcontainers, aby działał on prawidłowo należy ją zainstalować. Odnosząc się do struktury plików z repozytorium Bit-u na GitHubie, należy zainstalowany pakiet umieścić w folderze bitalg - taka jest ustawiona w programie relatywna ścieżka.
